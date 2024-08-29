@@ -6,7 +6,7 @@ Este projeto realiza uma análise de clusters em um conjunto de dados e visualiz
 
 A pasta do projeto contém os seguintes arquivos:
 
-- `Projeto.ipynb`: Jupyter Notebook que contém o código Python para análise de clusters e criação do mapa.
+- `Folium.ipynb`: Jupyter Notebook que contém o código Python para análise de clusters e criação do mapa.
 - `Dataset.csv`: Arquivo CSV com os dados utilizados para a análise de clusters. Este arquivo deve conter informações sobre clusters, latitude e longitude.
 - `map.html`: Mapa interativo gerado com Folium, que exibe a distribuição dos clusters no Brasil.
 
